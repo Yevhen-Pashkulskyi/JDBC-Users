@@ -1,7 +1,7 @@
 package org.example.app.utils;
 
-public class Constatnts {
-    public final static String WRONG_PHONE_MSG = "Wrong phone input.";
+public final class Constants {
+
     public final static String WRONG_EMAIL_MSG = "Wrong email input.";
     public final static String WRONG_ID_MSG = "Wrong id input.";
 
